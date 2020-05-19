@@ -19,4 +19,13 @@
 **Link(s) to work**: https://reactjs.org/docs/introducing-jsx.html
 
 
+### Day 3: May 18, 2020
+##### 
+
+**Today's Progress**: Learn the basics of JavaSricpt with the FreeCodeCamp course.
+
+**Thoughts**: Back to basics, I still programming and thinking with other languages, but I have to understand how to make a good code in that language.
+
+**Link(s) to work**:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
 
