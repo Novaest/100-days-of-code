@@ -22,10 +22,19 @@
 ### Day 3: May 18, 2020
 ##### 
 
-**Today's Progress**: Learn the basics of JavaSricpt with the FreeCodeCamp course.
+**Today's Progress**: Learn the basics of JavaScript with the FreeCodeCamp course.
 
 **Thoughts**: Back to basics, I still programming and thinking with other languages, but I have to understand how to make a good code in that language.
 
 **Link(s) to work**:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
+
+### Day 4: May 25, 2020
+##### 
+
+**Today's Progress**: Finished the basics of JavaScript with the FreeCodeCamp course.
+
+**Thoughts**: JavaScript is similar to others languages, and now I notice some differences.
+
+**Link(s) to work**:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
