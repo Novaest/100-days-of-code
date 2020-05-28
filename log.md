@@ -48,7 +48,7 @@
 
 **Link(s) to work**:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
-### Day 5: May 27, 2020
+### Day 6: May 27, 2020
 ##### 
 
 **Today's Progress**:Learning JavaScript and Promises
