@@ -48,3 +48,12 @@
 
 **Link(s) to work**:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
+### Day 5: May 27, 2020
+##### 
+
+**Today's Progress**:Learning JavaScript and Promises
+
+**Thoughts**: I still don't get it, but It's a new way of thinking... because the "callback hell" is what I used to do the most, and it is going to be a new challenger the way I code.
+
+**Link(s) to work**: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
