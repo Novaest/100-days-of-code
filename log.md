@@ -38,3 +38,13 @@
 
 **Link(s) to work**:https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
+
+### Day 5: May 26, 2020
+##### 
+
+**Today's Progress**:Learning JavaScript and data structure 
+
+**Thoughts**: Just reading what this language is capable of, and reading some code.
+
+**Link(s) to work**:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+
