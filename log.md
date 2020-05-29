@@ -57,3 +57,12 @@
 
 **Link(s) to work**: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
+### Day 7: May 28, 2020
+##### 
+
+**Today's Progress**:Building the Search-Box component in React
+
+**Thoughts**: The way that react works it's amazing, There some details I have to know when I used some components and the value that I can use, most in the app component, and the line of pass values between the components, I have a long way to go, but I felling more confortable with the framework.
+
+**Link(s) to work**: Life Cycle Methods, states, props.
+
