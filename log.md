@@ -66,3 +66,11 @@
 
 **Link(s) to work**: Life Cycle Methods, states, props.
 
+### Day 8: May 29, 2020
+##### 
+
+**Today's Progress**:Working in some personal projects, not actualy code, but I get some base ideias to build and how.
+
+**Thoughts**: Early phases of the project.
+
+**Link(s) to work**: UML
